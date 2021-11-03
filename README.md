@@ -8,3 +8,6 @@ Esta aplicación es un buscador de archivos Gif´s
 - Animate.css
 - Giphy API
 - Fetch API
+
+## Despliegue:
+https://gfmarcos.github.io/search-GIFs/
